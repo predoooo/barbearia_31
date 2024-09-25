@@ -1,9 +1,9 @@
 <?php
 
-$servidor = "locahost";
+$servidor = "localhost";
 $usuario = "root";
 $senha = "";
-$bd = "";
+$bd = "barbearia_31";
 
 // Criando nova conexão 
 global $conn;
